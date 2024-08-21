@@ -67,3 +67,5 @@ Para iniciar o desenvolvimento da biblioteca em TypeScript, siga os passos abaix
 
 ## Conclusão
 Este README fornece uma visão geral dos requisitos e configurações necessárias para o desenvolvimento da biblioteca em TypeScript. Para mais informações, consulte a documentação ou entre em contato com a equipe de desenvolvimento.
+
+Autor: Anderson Viana
